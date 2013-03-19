@@ -1,9 +1,13 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: default
 ---
 {% include JB/setup %}
+
+<h1>Sobre</h1>
+
+<p>vish mano</p>
+
+<h1>Blog</h1>
 
 <ul class="posts">
   {% for post in site.posts %}
