@@ -39,13 +39,15 @@
         {{ content }}
       </div>
 
-      <hr>
-
       <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-      with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-      and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-      </p>
+        <ul>
+          <li><a target="_blank" href="mailto:me@ro.ger.io">Email</a></li>
+          <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l">Facebook</a></li>
+          <li><a target="_blank" href="https://github.com/yokomizor">Github</a></li>
+          <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor">PlayStation Network</a></li>
+          <li><a target="_blank" href="http://us.battle.net/wow/pt/character/nemesis/Ezek/advanced">World of Warcraft</a></li>
+        </ul>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
       </footer>
 
       {% include JB/analytics %}
