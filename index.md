@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Rogério&#39;s Home Page (:"
 ---
 {% include JB/setup %}
 
@@ -17,10 +18,11 @@ layout: default
 <h2>Links</h2>
 
 <ul>
-  <li><a target="_blank" href="mailto:me@ro.ger.io">Email</a></li>
+  <li><a href="mailto:me@ro.ger.io">Email</a></li>
   <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l">Facebook</a></li>
   <li><a target="_blank" href="https://github.com/yokomizor">Github</a></li>
   <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor">PlayStation Network</a></li>
+  <li><a target="_blank" href="https://https://twitter.com/yokomizor">Twitter</a></li>
   <li><a target="_blank" href="http://us.battle.net/wow/pt/character/nemesis/Ezek/advanced">World of Warcraft</a></li>
 </ul>
 
