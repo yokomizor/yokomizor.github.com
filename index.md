@@ -18,6 +18,7 @@ title: "Rogério&#39;s Home Page (:"
 <h2>Links</h2>
 
 <ul>
+  <li><a target="_blank" href="https://coderwall.com/yokomizor">Coderwall</a></li>
   <li><a href="mailto:me@ro.ger.io">Email</a></li>
   <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l">Facebook</a></li>
   <li><a target="_blank" href="https://github.com/yokomizor">Github</a></li>
