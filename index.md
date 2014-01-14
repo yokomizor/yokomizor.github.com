@@ -25,7 +25,7 @@ title: "Rogério&#39;s Home Page (:"
   <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor">PlayStation Network</a></li>
   <li><a href="/resume.html">Resume</a></li>
   <li><a target="_blank" href="https://twitter.com/yokomizor">Twitter</a></li>
-  <li><a target="_blank" href="http://us.battle.net/wow/pt/character/nemesis/Ezek/advanced">World of Warcraft</a></li>
+  <li><a target="_blank" href="http://us.battle.net/wow/pt/character/nemesis/Bonigota/advanced">World of Warcraft</a></li>
 </ul>
 
 <h2>Posts</h2>
