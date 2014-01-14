@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rogério&#39;s Home Page (:"
+title: "Rogério Yokomizo&#39;s Home Page (:"
 ---
 {% include JB/setup %}
 
