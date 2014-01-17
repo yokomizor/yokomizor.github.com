@@ -18,14 +18,14 @@ title: "Rogério Yokomizo&#39;s Home Page (:"
 <h2>Links</h2>
 
 <ul>
-  <li><a target="_blank" href="https://coderwall.com/yokomizor">Coderwall</a></li>
-  <li><a href="mailto:me@ro.ger.io">Email</a></li>
-  <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l">Facebook</a></li>
-  <li><a target="_blank" href="https://github.com/yokomizor">Github</a></li>
-  <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor">PlayStation Network</a></li>
+  <li><a target="_blank" href="https://coderwall.com/yokomizor" rel="nofollow">Coderwall</a></li>
+  <li><a href="mailto:me@ro.ger.io" rel="nofollow">Email</a></li>
+  <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l" rel="nofollow">Facebook</a></li>
+  <li><a target="_blank" href="https://github.com/yokomizor" rel="nofollow">Github</a></li>
+  <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor" rel="nofollow">PlayStation Network</a></li>
   <li><a href="/resume.html">Resume</a></li>
-  <li><a target="_blank" href="https://twitter.com/yokomizor">Twitter</a></li>
-  <li><a target="_blank" href="http://us.battle.net/wow/en/character/nemesis/Bonigota/advanced">World of Warcraft</a></li>
+  <li><a target="_blank" href="https://twitter.com/yokomizor" rel="nofollow">Twitter</a></li>
+  <li><a target="_blank" href="http://us.battle.net/wow/en/character/nemesis/Bonigota/advanced" rel="nofollow">World of Warcraft</a></li>
 </ul>
 
 <h2>Posts</h2>
