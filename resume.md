@@ -7,7 +7,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
-23 years, Brazilian
+Age: 23
+Brazilian
 
 
 ## Education
@@ -27,7 +28,7 @@ I have worked in a Scrum team of 5 to maintain [http://www.airu.com.br](http://w
 
 I have in-depth knowledge of PHP, Java and Python languages. I also have knowledge in Sass, Less and CSS as frontend tools, Spring, Django and Bootstrap as major frameworks, and Git as SCM.
 
-In addition to, I have contributed with open source projects like Django project. See all my open source contributions on my Github profile ([https://github.com/yokomizor](https://github.com/yokomizor)).
+In addition, I have contributed with open source projects like Django project. See all my open source contributions on my Github profile ([https://github.com/yokomizor](https://github.com/yokomizor)).
  
 
 ## Previous Experience
@@ -45,16 +46,16 @@ Catho Online is a job site which serves more than ten million unique visitors pe
 ### [Jovem Pan](http://jp.com.br) - Software Developer
 
 <div class="date">
-  <span>Ago 2009 - Nov 2010</span>
+  <span>Aug 2009 - Nov 2010</span>
 </div>
 
-Jovem Pan is a Brazilian radio network focused in news and sports. I worked there as web developer at [http://jp.com.br](http://jp.com.br) using PHP, MySQL, Javascript, JQuery and CSS. I also worked with [Jovem Pan Blogs](http://jp.com.br/blogs) using WordPress. In addition to, I worked in a video player using ActionScript 3.
+Jovem Pan is a Brazilian radio network focused in news and sports. I worked there as a web developer at [http://jp.com.br](http://jp.com.br) using PHP, MySQL, Javascript, JQuery and CSS. I also worked with [Jovem Pan Blogs](http://jp.com.br/blogs) using WordPress. In addition, I worked in a video player using ActionScript 3.
 
 
 ### [Wheaton Brasil](http://www.wheatonbrasil.com.br) - Software Developer
 
 <div class="date">
-  <span>Ago 2008 - Jul 2019</span>
+  <span>Aug 2008 - Jul 2019</span>
 </div>
 
 Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it systems with [Oracle e-business suite](http://www.oracle.com/br/products/applications/ebusiness/overview/index.html) (EBS). I worked with PHP, Oracle SGBD, Oracle Reports, PostgreSQL, Smarty, Javascript and CSS. I also had to collect requirements from the sales departament.
@@ -63,7 +64,7 @@ Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it
 ### [Argumento Objetivo](http://argumento.com.br) - Trainee
 
 <div class="date">
-  <span>Fev 2008 - Jul 2008</span>
+  <span>Feb 2008 - Jul 2008</span>
 </div>
 
 Argumento Objetivo is a high school where I studied. I developed it site, [http://argumento.com.br](http://argumento.com.br), using PHP, MySQL and CSS. I also maintained three computer labs.
@@ -72,7 +73,7 @@ Argumento Objetivo is a high school where I studied. I developed it site, [http:
 ### [6A Consultoria](http://www.6a.com.br) - Trainee
 
 <div class="date">
-  <span>Fev 2007 - Jan 2008</span>
+  <span>Feb 2007 - Jan 2008</span>
 </div>
 
 I worked on 6A Consultoria building small web sites using PHP, MySQL, CSS and Javascript. I also created some layouts and banners using Adobe Photoshop.
