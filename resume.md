@@ -28,7 +28,7 @@ I have worked in a Scrum team of 5 to maintain [http://www.airu.com.br](http://w
 
 I have in-depth knowledge of PHP, Java and Python languages. I also have knowledge in Sass, Less and CSS as frontend tools, Spring, Django and Bootstrap as major frameworks, and Git as SCM.
 
-In addition, I have contributed with open source projects like Django project. See all my open source contributions on my Github profile ([https://github.com/yokomizor](https://github.com/yokomizor)).
+In addition, I have contributed with open source projects. See all my open source contributions on my Github profile ([https://github.com/yokomizor](https://github.com/yokomizor)).
  
 
 ## Previous Experience
