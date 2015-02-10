@@ -65,7 +65,7 @@ Jovem Pan is a Brazilian radio network focused in news and sports. I worked ther
 Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it systems with [Oracle e-business suite](http://www.oracle.com/br/products/applications/ebusiness/overview/index.html) (EBS). I worked with PHP, Oracle SGBD, Oracle Reports, PostgreSQL, Smarty, Javascript and CSS. I also had to collect requirements from the sales departament.
 
 
-### [Argumento Objetivo](http://argumento.com.br) - Trainee
+### [Argumento Objetivo](http://argumento.com.br) - Intern
 
 <div class="date">
   <span>Feb 2008 - Jul 2008</span>
@@ -74,7 +74,7 @@ Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it
 Argumento Objetivo is a high school where I studied. I developed it site, [http://argumento.com.br](http://argumento.com.br), using PHP, MySQL and CSS. I also maintained three computer labs.
 
 
-### [6A Consultoria](http://www.6a.com.br) - Trainee
+### [6A Consultoria](http://www.6a.com.br) - Intern
 
 <div class="date">
   <span>Feb 2007 - Jan 2008</span>
