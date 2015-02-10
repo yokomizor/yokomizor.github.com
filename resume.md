@@ -11,11 +11,6 @@ Age: 23
 Brazilian
 
 
-## Education
-
-Faculdade de Tecnologia do Estado de São Paulo - Technologist of Information Technology for Business Administration
-
-
 ## Current Employment
 
 Since June, 2013, I have worked for [Rocket Internet GmbH](http://www.rocket-internet.de/office/brazil-sao-paulo) at [Airu](http://www.airu.com.br). 
@@ -83,6 +78,12 @@ I worked on 6A Consultoria building small web sites using PHP, MySQL, CSS and Ja
 
  * English: Intermediate
  * Portuguese: Native
+
+
+## Education
+
+Faculdade de Tecnologia do Estado de São Paulo - Technologist of Information Technology for Business Administration
+
 
 --
 
