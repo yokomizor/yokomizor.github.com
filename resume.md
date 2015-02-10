@@ -29,6 +29,15 @@ In addition, I have contributed with open source projects. See all my open sourc
 ## Previous Experience
 
 
+### [Atados](http://www.atados.com.br) - Software Developer
+
+<div class="date">
+  <span>Dec 2012 - Set 2013</span>
+</div>
+
+Atados is a social network that matches volunteers with nonprofits. I worked there using Django Framework. The source code can be found at [Github](http://github.com/atados/api).
+
+
 ### [Catho Online](http://www.catho.com.br) - Software Developer
 
 <div class="date">
