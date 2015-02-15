@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume of Rogério da Silva Yokomizo"
-tagline: "Software Developer at Rocket Internet GmbH"
+tagline: "Team Leader at Airu"
 header: Pages
 group: navigation
 ---
@@ -10,10 +10,17 @@ group: navigation
 Age: 23
 Brazilian
 
+## Summary
+
+Fullstack Developer, DevOps, with 7 years experience. I have in-depth knowledge of PHP, Java, Python and Javascript languages.
+Extremely committed. On-call experience.
+perfectly fits in a startup environment.
+Interested in building scalable web apps focused on results, currently I am team leader at Airu.
 
 ## Current Employment
 
-Since June, 2013, I have worked for [Rocket Internet GmbH](http://www.rocket-internet.de/office/brazil-sao-paulo) at [Airu](http://www.airu.com.br). 
+<!-- Service integration, team management, cost management, datacenter migration -->
+Since June, 2012, I have worked for [Rocket Internet GmbH](http://www.rocket-internet.de/office/brazil-sao-paulo) at [Airu](http://www.airu.com.br). 
 [Airu](http://www.airu.com.br) is an online marketplace for handmade and vintage goods in Brazil, which serves more than one million unique visitors per month.
 
 I have worked in a Scrum team of 5 to maintain [http://www.airu.com.br](http://www.airu.com.br) using Java, Spring, Sass and Javascript. I have also worked with Solr, PostgreSQL, Memchace and some Ruby with Rails.
