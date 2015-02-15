@@ -1,75 +1,100 @@
 ---
 layout: page
 title: "Resume of Rogério da Silva Yokomizo"
-tagline: "Team Leader at Airu"
+tagline: "Lead Developer at Airu"
 header: Pages
 group: navigation
+tags : [resume, fullstack, devops, php, java, python, javascript]
 ---
 {% include JB/setup %}
 
-Age: 23
-Brazilian
-
 ## Summary
 
-Fullstack Developer, DevOps, with 7 years experience. I have in-depth knowledge of PHP, Java, Python and Javascript languages.
-Extremely committed. On-call experience.
-perfectly fits in a startup environment.
-Interested in building scalable web apps focused on results, currently I am team leader at Airu.
-
-## Current Employment
-
-<!-- Service integration, team management, cost management, datacenter migration -->
-Since June, 2012, I have worked for [Rocket Internet GmbH](http://www.rocket-internet.de/office/brazil-sao-paulo) at [Airu](http://www.airu.com.br). 
-[Airu](http://www.airu.com.br) is an online marketplace for handmade and vintage goods in Brazil, which serves more than one million unique visitors per month.
-
-I have worked in a Scrum team of 5 to maintain [http://www.airu.com.br](http://www.airu.com.br) using Java, Spring, Sass and Javascript. I have also worked with Solr, PostgreSQL, Memchace and some Ruby with Rails.
+Fullstack Developer, DevOps, with 7 years experience. I have in-depth knowledge of PHP, Java, Python and Javascript languages, and also solve complex queries using SQL.
+Solid understanding of the full web technology stack such as HTTP, DNS, cookies and assets loading.
+A very committed professional, who is interested in building scalable web apps in a startup environment, focusing on results.
+Currently I am lead developer at Airu with experience in team management, cost optimization, service integration and on-call time.
 
 
-## Technical Skills
+## Experience
 
-I have in-depth knowledge of PHP, Java and Python languages. I also have knowledge in Sass, Less and CSS as frontend tools, Spring, Django and Bootstrap as major frameworks, and Git as SCM.
+### [Rocket Internet AG](https://www.rocket-internet.com) at [Airu](http://www.airu.com.br) - Lead Developer
 
-In addition, I have contributed with open source projects. See all my open source contributions on my Github profile ([https://github.com/yokomizor](https://github.com/yokomizor)).
- 
+<div class="date">
+  <span>Jul 2014 - Present</span>
+</div>
 
-## Previous Experience
+[Rocket Internet AG](https://www.rocket-internet.com) is the world's largest incubator & venture-builder.
+
+There I work at [Airu](http://www.airu.com.br), which is the largest & fastest-growing marketplace for fashion and design in Brazil.
+
+As a Lead Developer my main responsibilities are:
+
+ * Backend developer using Java8 with Playframework
+ * Frontend developer using Javascript with AngularJS and CSS with Less
+ * Actively participate in the operations including a datacenter migration involving an infrastructure re-layout
+ * Actively participate in the hire process and coaching
+ * Specify the work for the team and manage the schedule
+ * Develop strategies for cost optimization
+ * Integration with SalesForce, ExactTarget and ZenDesk platforms using REST and SOAP
 
 
-### [Atados](http://www.atados.com.br) - Software Developer
+### [Rocket Internet AG](https://www.rocket-internet.com) at [Airu](http://www.airu.com.br) - Java Developer
+
+<div class="date">
+  <span>Jun 2012 - Jun 2014</span>
+</div>
+
+I worked at Airu as Software Developer with:
+
+ * Backend develop using Java, Spring, Stripes
+ * Frontend develop using Sass, Javascript and JQuery
+ * Develop complex reports using SQL
+
+
+### Projeto Fígado - Mobile Developer
+
+<div class="date">
+  <span>May 2014 - Jun 2014</span>
+</div>
+
+Projeto Fígado is a prizewinner project; developed inside the *Faculdade de Tecnologia do Estado de São Paulo* and the *Secretaria da Saúde do Estado de São Paulo* to improve the liver transplantation in São Paulo. I worked as mobile developer using AngularJS, Sass and Phonegap to build a mobile app that consumes a REST API and receives notifications from Apple Push Notification Service (APNs) and Google Cloud Messaging (GCM).
+
+
+### [Atados](http://www.atados.com.br) - Python Developer
 
 <div class="date">
   <span>Dec 2012 - Set 2013</span>
 </div>
 
-Atados is a social network that matches volunteers with nonprofits. I worked there using Django Framework. The source code can be found at [Github](http://github.com/atados/api).
+Atados is a social network that matches volunteers with nonprofits. I worked as Python Developer using Django Framework.
 
 
-### [Catho Online](http://www.catho.com.br) - Software Developer
+### [Catho Online](http://www.catho.com.br) - PHP Developer
 
 <div class="date">
   <span>Dec 2010 - May 2012</span>
 </div>
 
-Catho Online is a job site which serves more than ten million unique visitors per month. I worked in a Scrum team of seven, maintaining the resume tools and CRM, with PHP, MySQL, Solr, Smarty, Javascript and JQuery. I also worked on integration with [Brazilian MSN Jobs](http://msn.catho.com.br), and [R7 jobs](http://noticias.r7.com/empregos) and created a coding dojo group.
+Catho Online is a job site that serves more than ten million unique visitors per month. I worked in a Scrum team of seven, maintaining the resume tools and CRM, with PHP, MySQL, Solr, Smarty, Javascript and JQuery. I also worked on integration with [Brazilian MSN Jobs](http://msn.catho.com.br), and [R7 jobs](http://noticias.r7.com/empregos) and created a coding dojo group.
 
 
-### [Jovem Pan](http://jp.com.br) - Software Developer
+### [Jovem Pan](http://jp.com.br) - PHP Developer
 
 <div class="date">
   <span>Aug 2009 - Nov 2010</span>
 </div>
 
-Jovem Pan is a Brazilian radio network focused in news and sports. I worked there as a web developer at [http://jp.com.br](http://jp.com.br) using PHP, MySQL, Javascript, JQuery and CSS. I also worked with [Jovem Pan Blogs](http://jp.com.br/blogs) using WordPress. In addition, I worked in a video player using ActionScript 3.
+Jovem Pan is a Brazilian radio network focused in news and sports. I worked there as a web developer at [http://jp.com.br](http://jp.com.br) using PHP, MySQL, Javascript, JQuery and CSS. I also worked with [Jovem Pan Blogs](http://jp.com.br/blogs) using WordPress. In addition, I developed a video player using ActionScript 3.
 
 
-### [Wheaton Brasil](http://www.wheatonbrasil.com.br) - Software Developer
+### [Wheaton Brasil](http://www.wheatonbrasil.com.br) - PHP Developer
 
 <div class="date">
-  <span>Aug 2008 - Jul 2019</span>
+  <span>Aug 2008 - Jul 2009</span>
 </div>
 
-Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it systems with [Oracle e-business suite](http://www.oracle.com/br/products/applications/ebusiness/overview/index.html) (EBS). I worked with PHP, Oracle SGBD, Oracle Reports, PostgreSQL, Smarty, Javascript and CSS. I also had to collect requirements from the sales departament.
+Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate its systems with [Oracle e-business suite](http://www.oracle.com/br/products/applications/ebusiness/overview/index.html) (EBS). I worked with PHP, Oracle SGBD, Oracle Reports, PostgreSQL, Smarty, Javascript and CSS. I also had to collect requirements from the sales department.
 
 
 ### [Argumento Objetivo](http://argumento.com.br) - Intern
@@ -81,7 +106,7 @@ Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate it
 Argumento Objetivo is a high school where I studied. I developed it site, [http://argumento.com.br](http://argumento.com.br), using PHP, MySQL and CSS. I also maintained three computer labs.
 
 
-### [6A Consultoria](http://www.6a.com.br) - Intern
+### [6A Consultoria](http://www.6a.com.br) - PHP Developer
 
 <div class="date">
   <span>Feb 2007 - Jan 2008</span>
@@ -90,15 +115,9 @@ Argumento Objetivo is a high school where I studied. I developed it site, [http:
 I worked on 6A Consultoria building small web sites using PHP, MySQL, CSS and Javascript. I also created some layouts and banners using Adobe Photoshop.
 
 
-## Languages
-
- * English: Intermediate
- * Portuguese: Native
-
-
 ## Education
 
-Faculdade de Tecnologia do Estado de São Paulo - Technologist of Information Technology for Business Administration
+*Faculdade de Tecnologia do Estado de São Paulo* - Technologist of Information Technology for Business Administration
 
 
 --
