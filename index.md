@@ -1,18 +1,13 @@
 ---
 layout: default
-title: "Rogério Yokomizo&#39;s Home Page (:"
+title: "Rogério da Silva Yokomizo"
+tagline: "Lead Developer at Airu"
 ---
 {% include JB/setup %}
 
 <div class="page-header">
   <a href="/"><img alt="Rogério" src="http://www.gravatar.com/avatar/5dc63b0e1394be552daf2ad84418bb40?s=220" class="img-circle me"></a>
-  <h1>Rogério&#39;s Home Page (:</h1>
-</div>
-
-<div class="row">
-  <div class="span12">
-    <p>Hi! My name is Rogério. I am a software developer who enjoys cycling and playing games. From São Paulo.</p>
-  </div>
+  <h1>Rogério da Silva Yokomizo <small>In love with `git commit` and my bike (:</small></h1>
 </div>
 
 <h2>Links</h2>
