@@ -117,7 +117,13 @@ I worked on 6A Consultoria building small web sites using PHP, MySQL, CSS and Ja
 
 ## Education
 
-*Faculdade de Tecnologia do Estado de São Paulo* - Technologist of Information Technology for Business Administration
+*Faculdade de Tecnologia do Estado de São Paulo* - *Tecnologia em Informática para Gestão de Negócios*
+
+
+## Languages
+
+ * English
+ * Portuguese
 
 
 --
