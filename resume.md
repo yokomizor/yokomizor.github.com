@@ -10,10 +10,10 @@ tags : [resume, fullstack, devops, php, java, python, javascript]
 
 ## Summary
 
-Fullstack Developer, DevOps, with 7 years experience. I have in-depth knowledge of PHP, Java, Python and Javascript languages, and also solve complex queries using SQL.
+Fullstack Developer, DevOps, with 7 years of experience. I have in-depth knowledge of PHP, Java, Python and Javascript languages, and also solve complex queries using SQL.
 Solid understanding of the full web technology stack such as HTTP, DNS, cookies and assets loading.
 A very committed professional, who is interested in building scalable web apps in a startup environment, focusing on results.
-Currently I am lead developer at Airu with experience in team management, cost optimization, service integration and on-call time.
+Currently I am the lead developer at Airu with experience in team management, cost optimization, service integration and on-call time.
 
 
 ## Experience
