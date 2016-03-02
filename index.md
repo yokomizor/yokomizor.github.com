@@ -19,11 +19,10 @@ tagline: "Lead Developer at Airu"
   <li><a target="_blank" href="https://github.com/yokomizor" rel="nofollow">Github</a></li>
   <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor" rel="nofollow">PlayStation Network</a></li>
   <li><a href="/resume.html">Resume</a></li>
+  <li><a target="_blank" href="http://steamcommunity.com/id/yokomizor" rel="nofollow">Steam</a></li>
   <li><a target="_blank" href="https://twitter.com/yokomizor" rel="nofollow">Twitter</a></li>
   <li><a target="_blank" href="http://us.battle.net/wow/en/character/nemesis/Bonigota/advanced" rel="nofollow">World of Warcraft</a></li>
 </ul>
-
-<h2>Posts</h2>
 
 <ul>
 {% for post in site.posts %}
