@@ -13,6 +13,7 @@ tagline: "Lead Developer at Airu"
 <h2>Links</h2>
 
 <ul>
+  <li><a target="_blank" href="https://www.behance.net/yokomizor" rel="nofollow">Behance</a></li>
   <li><a target="_blank" href="https://coderwall.com/yokomizor" rel="nofollow">Coderwall</a></li>
   <li><a href="mailto:me@ro.ger.io" rel="nofollow">Email</a></li>
   <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l" rel="nofollow">Facebook</a></li>
