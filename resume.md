@@ -25,8 +25,8 @@ Currently I work at Rocket Internet with experience in team management, code rev
 </div>
 
 Vaniday is an online marketplace to find and book beauty & wellness services. It is present in 6 countries.
-There I have worked with C#, PHP, Javascript, ES6, AngularJS, Sass, Docker, DynamoDB, and MySQL.
-My main attributions are build and maintain REST micro services and single page applications.
+There, I am working with C#, PHP, Javascript, ES6, AngularJS, Sass, Docker, DynamoDB, and MySQL.
+My main attributions are building and maintaining REST micro services and single page applications.
 
 
 ### [Rocket Internet](https://www.rocket-internet.com) at [RideLink](https://ridelink.com/) - Frontend Developer
