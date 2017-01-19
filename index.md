@@ -12,16 +12,29 @@ tagline: "Lead Developer at Airu"
 
 <h2>Links</h2>
 
+<h3>Professional</h3>
+
 <ul>
   <li><a target="_blank" href="https://www.behance.net/yokomizor" rel="nofollow">Behance</a></li>
   <li><a target="_blank" href="https://coderwall.com/yokomizor" rel="nofollow">Coderwall</a></li>
-  <li><a href="mailto:me@ro.ger.io" rel="nofollow">Email</a></li>
-  <li><a target="_blank" href="http://www.facebook.com/profile.php?id=100003300747026l" rel="nofollow">Facebook</a></li>
   <li><a target="_blank" href="https://github.com/yokomizor" rel="nofollow">Github</a></li>
-  <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor" rel="nofollow">PlayStation Network</a></li>
   <li><a href="/resume.html">Resume</a></li>
-  <li><a target="_blank" href="http://steamcommunity.com/id/yokomizor" rel="nofollow">Steam</a></li>
+</ul>
+
+<h3>Social</h3>
+
+<ul>
+  <li><a target="_blank" href="https://www.instagram.com/pobrejapa/" rel="nofollow">Instagram</a></li>
+  <li><a target="_blank" href="https://www.facebook.com/rogerio.yokomizo.9" rel="nofollow">Facebook</a></li>
   <li><a target="_blank" href="https://twitter.com/yokomizor" rel="nofollow">Twitter</a></li>
+</ul>
+
+<h3>Gaming</h3>
+
+<ul>
+  <li><a target="_blank" href="https://playoverwatch.com/en-us/career/pc/eu/bonigota-2124" rel="nofollow">Overwatch</a> (<a target="_blank" href="https://playoverwatch.com/en-us/career/pc/eu/bonigota-2124" rel="nofollow">PC</a>, <a target="_blank" href="https://playoverwatch.com/en-us/career/psn/bonigota" rel="nofollow">PS4</a>)</li>
+  <li><a target="_blank" href="http://br.playstation.com/publictrophy/?onlinename=yokomizor" rel="nofollow">PlayStation Network</a></li>
+  <li><a target="_blank" href="http://steamcommunity.com/id/yokomizor" rel="nofollow">Steam</a></li>
   <li><a target="_blank" href="http://us.battle.net/wow/en/character/nemesis/Bonigota/advanced" rel="nofollow">World of Warcraft</a></li>
 </ul>
 
