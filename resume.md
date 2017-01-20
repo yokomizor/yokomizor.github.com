@@ -30,7 +30,7 @@ Rocket Internet is a venture capital focused on online and mobile retail service
  * [RideLink](https://ridelink.com/) (Mar 2015 - Jun 2015)
  * [Airu](http://www.airu.com.br) (Jun 2012 - Feb 2015)
 
-After more than four years, I have experinced:
+After more than four years, I have experienced:
 
  * Team management
  * Hiring and coaching process
