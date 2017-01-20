@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Resume of Rogério da Silva Yokomizo"
+title: "Rogério da Silva Yokomizo"
 tagline: "Developer at Rocket Internet"
 header: Pages
 group: navigation
@@ -21,7 +21,7 @@ Currently I work at Rocket Internet with experience in team management, code rev
 ### [Rocket Internet](https://www.rocket-internet.com)
 
 <div class="date">
-  <span>Jan 2012 - Present</span>
+  <span>Jun 2012 - Present</span>
 </div>
 
 Rocket Internet is a venture capital focused on online and mobile retail services. There I have worked on different projects such as:
