@@ -48,7 +48,7 @@ The main technologies I have used are C#, Java, PHP, Javascript, ES6, CSS, Angul
   <span>May 2014 - Jun 2014</span>
 </div>
 
-<i>Projeto Fígado</i> is a platform to improve the liver transplantation in São Paulo. It was developed inside the *Faculdade de Tecnologia do Estado de São Paulo* and *Secretaria da Saúde do Estado de São Paulo*. I built a mobile app using Phonegap and AngularJS.
+*Projeto Fígado* is a platform to improve the liver transplantation in São Paulo. It was developed inside the *Faculdade de Tecnologia do Estado de São Paulo* and *Secretaria da Saúde do Estado de São Paulo*. I built a mobile app using Phonegap and AngularJS.
 
 
 ### [Atados](http://www.atados.com.br)
@@ -104,4 +104,4 @@ Rogério da Silva Yokomizo &lt;[me@ro.ger.io](mailto:me@ro.ger.io)&gt;<br>
 26 years old, Brazilian, Bluecard<br>
 Berlin - Germany<br>
 
-Get the latest version of this document at [http://ro.ger.io/resume.html](http://ro.ger.io/resume.html)
+Get the latest version of this document at [http://ro.ger.io/resume.html](http://ro.ger.io/resume.html) ([pdf](http://ro.ger.io/resume_rogerio_da_silva_yokomizo.pdf))
