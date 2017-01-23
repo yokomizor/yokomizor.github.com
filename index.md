@@ -19,7 +19,7 @@ tagline: "Lead Developer at Airu"
   <li><a target="_blank" href="https://coderwall.com/yokomizor" rel="nofollow">Coderwall</a></li>
   <li><a target="_blank" href="https://github.com/yokomizor" rel="nofollow">Github</a></li>
   <li><a target="_blank" href="https://www.linkedin.com/in/rogério-yokomizo-ab9b928a" rel="nofollow">Linkedin</a></li>
-  <li><a href="/resume.html">Resume</a></li>
+  <li><a target="_blank" href="/resume_rogerio_da_silva_yokomizo.pdf">Resume</a></li>
 </ul>
 
 <h3>Social</h3>
