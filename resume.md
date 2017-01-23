@@ -119,7 +119,7 @@ I worked at 6A Consultoria building small web sites using PHP, MySQL, CSS and Ja
 --
 
 Rogério da Silva Yokomizo &lt;[me@ro.ger.io](mailto:me@ro.ger.io)&gt;<br>
-26 years old, Brazilan, Bluecard<br>
+26 years old, Brazilian, Bluecard<br>
 Berlin - Germany<br>
 
 Get the latest version of this document at [http://ro.ger.io/resume.html](http://ro.ger.io/resume.html)
