@@ -48,13 +48,13 @@ The main technologies I have used are C#, Java, PHP, Javascript, ES6, CSS, Angul
   <span>May 2014 - Jun 2014</span>
 </div>
 
-Projeto Fígado is a prizewinner project; developed inside the *Faculdade de Tecnologia do Estado de São Paulo* and the *Secretaria da Saúde do Estado de São Paulo* to improve the liver transplantation in São Paulo. I worked as mobile developer using AngularJS, Sass and Phonegap to build a mobile app.
+<i>Projeto Fígado</i> is a platform to improve the liver transplantation in São Paulo. It was developed inside the *Faculdade de Tecnologia do Estado de São Paulo* and *Secretaria da Saúde do Estado de São Paulo*. I built a mobile app using Phonegap and AngularJS.
 
 
 ### [Atados](http://www.atados.com.br)
 
 <div class="date">
-  <span>Dec 2012 - Set 2013</span>
+  <span>Dec 2012 - Sep 2013</span>
 </div>
 
 Atados is a social network that matches volunteers with nonprofits. I worked as Python Developer using Django Framework.
@@ -66,7 +66,7 @@ Atados is a social network that matches volunteers with nonprofits. I worked as 
   <span>Dec 2010 - May 2012</span>
 </div>
 
-Catho is a job site where I worked to maintaining the resume and CRM platforms, using PHP, MySQL, Solr, Smarty, Javascript and JQuery.
+Catho is a Brazilian job list where I worked to maintaining the resume and CRM platforms, using PHP, MySQL, Solr, Smarty, Javascript and JQuery.
 
 
 ### [Jovem Pan](http://jp.com.br)
@@ -85,24 +85,6 @@ Catho is a job site where I worked to maintaining the resume and CRM platforms, 
 </div>
 
 Wheaton Brasil is a Brazilian glass manufacturer, where I worked to integrate its systems with [Oracle e-business suite](http://www.oracle.com/br/products/applications/ebusiness/overview/index.html) (EBS). I worked with PHP, Oracle SGBD, Oracle Reports, PostgreSQL, Smarty, Javascript and CSS.
-
-
-### [Argumento Objetivo](http://argumento.com.br)
-
-<div class="date">
-  <span>Feb 2008 - Jul 2008</span>
-</div>
-
-[Argumento Objetivo](http://argumento.com.br) is the school where I studied. I developed its site, using PHP, MySQL and CSS. I also maintained three computer labs.
-
-
-### [6A Consultoria](http://www.6a.com.br)
-
-<div class="date">
-  <span>Feb 2007 - Jan 2008</span>
-</div>
-
-I worked at 6A Consultoria building small web sites using PHP, MySQL, CSS and Javascript.
 
 
 ## Education
